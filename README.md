@@ -1,7 +1,7 @@
 # DatZ3151_assign3
 Repository for Assignment 3 in course DatZ3151 at LUDF
 
-Check: https://bloxey.github.io/DatZ3151_assign3/
+Check: https://bloxey.github.io/DatZ3151_assign3/index.html
 
 Authors:
   TO17008 
