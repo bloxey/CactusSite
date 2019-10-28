@@ -1,0 +1,4 @@
+user-agent: *
+allow /DatZ3151_assign3/
+
+Sitemap: https://bloxey.github.io/DatZ3151_assign3/sitemap
