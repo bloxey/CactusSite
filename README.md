@@ -1,7 +1,7 @@
-# DatZ3151_assign3
+# CactusSite
 Repository for Assignment 3 in course DatZ3151 at LUDF
 
-Check: https://bloxey.github.io/DatZ3151_assign3/index.html
+Check: https://bloxey.github.io/CactusSite/index.html
 
 Authors:
   TO17008 

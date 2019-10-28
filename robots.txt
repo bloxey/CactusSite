@@ -1,4 +1,4 @@
 user-agent: *
-allow /DatZ3151_assign3/
+allow /CactusSite/
 
-Sitemap: https://bloxey.github.io/DatZ3151_assign3/sitemap
+Sitemap: https://bloxey.github.io/CactusSite/sitemap
