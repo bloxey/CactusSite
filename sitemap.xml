@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <url>
-      <loc>https://bloxey.github.io/DatZ3151_assign3/Cactus_Growing_Tutorial.html</loc>
-      <lastmod>2019-10-28</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.9</priority>
-   </url>
+  <url>
+    <loc>https://bloxey.github.io/DatZ3151_assign3/Cactus_Growing_Tutorial.html</loc>
+    <lastmod>2019-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 
-   <url>
-      <loc>https://bloxey.github.io/DatZ3151_assign3/index.html</loc>
-      <lastmod>2019-10-28</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.05</priority>
-   </url>
+  <url>
+    <loc>https://bloxey.github.io/DatZ3151_assign3/index.html</loc>
+    <lastmod>2019-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.05</priority>
+  </url>
 
-   <url>
-      <loc>https://bloxey.github.io/DatZ3151_assign3/pagefive.html</loc>
-      <lastmod>2019-10-28</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.05</priority>
-   </url>
+  <url>
+    <loc>https://bloxey.github.io/DatZ3151_assign3/cactus_types.html</loc>
+    <lastmod>2019-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.05</priority>
+  </url>
 
-   <url>
-      <loc>file:///C:/Users/EdgarsStraumanis/Desktop/Task3/aboutus.html</loc>
-      <lastmod>2019-10-28</lastmod>
-      <changefreq>yearly</changefreq>
-   </url>
+  <url>
+    <loc>file:///C:/Users/EdgarsStraumanis/Desktop/Task3/aboutus.html</loc>
+    <lastmod>2019-10-28</lastmod>
+    <changefreq>yearly</changefreq>
+  </url>
 
-   <url>
-      <loc>https://bloxey.github.io/DatZ3151_assign3/faq.html</loc>
-      <lastmod>2019-10-28</lastmod>
-      <changefreq>monthly</changefreq>
-   </url>
+  <url>
+    <loc>https://bloxey.github.io/DatZ3151_assign3/faq.html</loc>
+    <lastmod>2019-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>
